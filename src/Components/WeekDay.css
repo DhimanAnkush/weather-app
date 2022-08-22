@@ -1,0 +1,26 @@
+.week-day{
+    display: flex;
+    margin: auto;
+    width: 55%;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.font{
+    font-weight: 700;
+    margin: 0;
+}
+
+.graph{
+ padding: 20px;   
+}
+
+.sun-graph{
+    padding: 20px;
+}
+.icon{
+    margin: 0;
+    padding: 0;
+    width: 60%;
+}
